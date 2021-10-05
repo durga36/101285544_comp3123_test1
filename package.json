@@ -1,0 +1,20 @@
+{
+  "name": "101285544_comp3123_test1",
+  "version": "1.0.0",
+  "description": "Lab Test 1",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon question1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Durga Sutharsan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
